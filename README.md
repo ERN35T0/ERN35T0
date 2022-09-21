@@ -7,8 +7,7 @@ I've started to code in December. I've enrolled in Harvard CS50: Introduction to
 
 So far, I've create a couple of proyects in rails, programs in C and I dabbed in Python and Flask. I like to understand how things work and coding offers me both the mental challenge and the satisfaction of having made something entirely by myself.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ern35t0&theme=dark" alt="ern35t0" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ern35t0&theme=highcontrast" alt="ern35t0" /></p>
 
 Over the next few months I want to complete CS50, create projects with other programmers and join in a company who will give me the opportunity to apply my skills to helping them grow. 
 
