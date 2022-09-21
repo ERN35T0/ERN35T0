@@ -1,15 +1,19 @@
 
 ## Ernesto Baquero
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ern35t0&theme=default" alt="ern35t0" /></p>
+
+
 Hi! I currently live in Lanzarote, Canary Islands and I am a junior developer. I worked for several years in the telecommunications industry and in my last job I was managing a team of 13 people in Madrid. 
 
 I've started to code in December. I've enrolled in Harvard CS50: Introduction to Computer Science and it has been extremely challenging and interesting so far. In February, I took part in the intensive 26-days experience of La Piscine with the School 42 in Madrid and we can call that a life changing experience! In May I started a course to master the Scrum framework, The Agile Program, and during the summer full stack web developer with Le Wagon.:blush:
 
 So far, I've create a couple of proyects in rails, programs in C and I dabbed in Python and Flask. I like to understand how things work and coding offers me both the mental challenge and the satisfaction of having made something entirely by myself.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ern35t0&theme=highcontrast" alt="ern35t0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ern35t0&show_icons=true&theme=highcontrast&title_color=9437ff&text_color=d783ff&bg_color=eaeaea&hide_border=true&locale=en&layout=compact" alt="ern35t0" /></p>
 
 Over the next few months I want to complete CS50, create projects with other programmers and join in a company who will give me the opportunity to apply my skills to helping them grow. 
+
 
 
 ## Developer Skills
