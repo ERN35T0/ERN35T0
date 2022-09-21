@@ -3,7 +3,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ern35t0&theme=default" alt="ern35t0" /></p>
 :cactus:    From  Lanzarote  :volcano: ,  coding  :computer:  with  love    :surfer:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ern35t0&show_icons=true&theme=highcontrast&title_color=9437ff&text_color=d783ff&bg_color=eaeaea&hide_border=true&locale=en&layout=compact" alt="ern35t0" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ern35t0&show_icons=true&theme=highcontrast&title_color=9437ff&text_color=d783ff&bg_color=eaeaea&hide_border=true&locale=en&layout=compact" alt="ern35t0" /></p>
 
 
 
