@@ -60,9 +60,11 @@ An app to connect readers withlocal bookstores in London.
 JS, Rails, stimulus
 API
 Integrated payment system
+
 **[classic-cars](https://classic-cars-app-amoores1.herokuapp.com/)**
 A website for renting or offering to rent
 legendary cars
+
 
 
 <h3 align="left">Connect with me:</h3>
