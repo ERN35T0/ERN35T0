@@ -13,7 +13,7 @@
 
 ## Education
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ern35t0&show_icons=true&theme=highcontrast&title_color=9437ff&text_color=d783ff&bg_color=eaeaea&hide_border=true&locale=en&layout=compact" alt="ern35t0" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ern35t0&show_icons=true&theme=highcontrast&title_color=9437ff&text_color=d783ff&bg_color=eaeaea&hide_border=true&locale=en&layout=compact" alt="ERN35t0" /></p>
 
 #### Web developer full stack | Le Wagon | September 2022
 #### CS50: Introduction to Computer Science | Harvard University | Started December 2021
